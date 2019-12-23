@@ -1,0 +1,23 @@
+{
+  "name": "pe-e2e-scenario-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "Abhishek R Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^5.16.13",
+    "@wdio/local-runner": "^5.16.13",
+    "@wdio/mocha-framework": "^5.16.13",
+    "@wdio/spec-reporter": "^5.16.11",
+    "@wdio/sync": "^5.16.14",
+    "chai": "^4.2.0",
+    "chromedriver": "^78.0.1",
+    "wdio-chromedriver-service": "^5.0.2",
+    "webdriverio": "^5.17.0"
+  }
+}
