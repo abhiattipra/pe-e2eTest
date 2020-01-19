@@ -1,3 +1,5 @@
+An e2e test framework built on top of selinium with WebdriverIO and Cucumber
+
 Steps to execute
 
 Extract the fies from the zip folder
